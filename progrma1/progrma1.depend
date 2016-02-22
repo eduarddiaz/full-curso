@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453330029 source:c:\users\eduardo\desktop\progra2\progrma1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
